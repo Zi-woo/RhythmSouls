@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8fd3bae28eeaae49971a01c315e0fd0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288789
+  packageName: Crawler - Graveyard
+  packageVersion: 1.0
+  assetPath: Assets/Singular Bear/Crawler Pack/Dungeon/_Shared Files/ScrollingShader.shader
+  uploadId: 676353
