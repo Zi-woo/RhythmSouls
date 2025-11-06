@@ -43,14 +43,20 @@
 - **Tile Map**: 맵 제작
 - **확장 메서드**: 재사용성 높은 기능 추가
 - **Visual Scripting (Script Machine)**: 일부 로직 구현
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4bca58a-1492-4041-91c3-a360813e29a5" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/f9881e92-fde2-43d2-9bfa-39ea30622ed0" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/df73d368-f54f-499f-a419-923d492023ff" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/f2dfed85-9ee6-4b20-9c0e-991d2b357a53" width="45%"/>
+</p>
+<p align="center">
+  <em>리듬 전투 / 튜토리얼</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44ea9c5c-191d-40f1-934f-b491c11bf89f" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/f4d1ea2c-9fc6-4fa2-822e-141ed4b19770" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/4b7c9cab-a507-4c40-834f-ba4ffb4cc296" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/db75c6fc-40a1-4e08-8ebf-9ebc6f4284c7" width="45%"/>
 </p>
-
+<p align="center">
+  <em>탐험 / 보스전</em>
+</p>
 
