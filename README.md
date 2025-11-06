@@ -49,7 +49,6 @@
   <img src="https://github.com/user-attachments/assets/f2dfed85-9ee6-4b20-9c0e-991d2b357a53" width="45%"/>
 </p>
 <p align="center">
-  <em>리듬 전투 / 튜토리얼</em>
 </p>
 
 <p align="center">
@@ -57,6 +56,5 @@
   <img src="https://github.com/user-attachments/assets/db75c6fc-40a1-4e08-8ebf-9ebc6f4284c7" width="45%"/>
 </p>
 <p align="center">
-  <em>탐험 / 보스전</em>
 </p>
 
